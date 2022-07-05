@@ -9,10 +9,10 @@ Sample microservices-based system consists of the following modules:
 - **organization-service** - a module containing the third of our sample microservices that allows to perform CRUD operation on in-memory repository of organizations. It communicates with both employee-service and organization-service.
 
 
-Config Service  
+**Config Service**  
 
-Discovery Service 
+**Discovery Service** 
                          
-Gateway Service
+**Gateway Service**
 
-Organization Service---Department Service---Employee Service
+**Organization Service**---**Department Service**---**Employee Service**
